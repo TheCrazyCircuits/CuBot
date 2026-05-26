@@ -1,4 +1,3 @@
-
 // ===== TEMPERATURE MODE CONTROL =====
 bool showWeather = false;
 
