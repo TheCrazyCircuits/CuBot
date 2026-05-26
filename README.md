@@ -24,10 +24,6 @@ Built using the ESP32 platform, CuBot focuses on smooth animations, responsive i
 
 # Images 📸
 
-![CuBot Hero](assets/images/hero.jpg)
-
----
-
 ## ✨ Face Mode
 ![Face Mode](https://github.com/TheCrazyCircuits/CuBot/blob/5cd57695c5a19d078a40788411685de32b3bcbde/WhatsApp%20Image%202026-05-26%20at%2012.24.24%20PM.jpeg)
 
@@ -36,9 +32,6 @@ Built using the ESP32 platform, CuBot focuses on smooth animations, responsive i
 
 ## 😴 Sleep Mode
 ![Sleep](https://github.com/TheCrazyCircuits/CuBot/blob/43dc16e847ca98da79a8165a3579857eb3281de4/WhatsApp%20Image%202026-05-26%20at%2012.24.25%20PM.jpeg)
-
-## 🔧 Setup
-![Setup](assets/images/setup.jpg)
 
 ---
 
