@@ -22,6 +22,26 @@ Built using the ESP32 platform, CuBot focuses on smooth animations, responsive i
 
 ---
 
+# Images 📸
+
+![CuBot Hero](assets/images/hero.jpg)
+
+---
+
+## ✨ Face Mode
+![Face Mode](assets/images/face.jpg)
+
+## 🌦 Weather Mode
+![Weather](assets/images/weather.jpg)
+
+## 😴 Sleep Mode
+![Sleep](assets/images/sleep.jpg)
+
+## 🔧 Setup
+![Setup](assets/images/setup.jpg)
+
+---
+
 # 🛠 Hardware Used
 
 | Component | Description |
