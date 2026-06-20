@@ -20,8 +20,8 @@ String cityName = "Pune";
 #include <WiFi.h>
 #include "time.h"
 
-const char* ssid     = "Terrace_Router";
-const char* password = "Milind@8738";
+const char* ssid     = "YOUR_ROUTER_NAME";
+const char* password = "YOUR_WIFI_PASS";
 
 bool showClock = false;
 unsigned long sleepStartTime = 0;
