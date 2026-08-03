@@ -238,7 +238,7 @@ void fetchWeather() {
   if (WiFi.status() != WL_CONNECTED) return;
 
   HTTPClient http;
-  String apiKey = "0af865eaafdf041924e89e6158881684";
+  String apiKey = "YOUR_WEATHER_API_KEY";
   String url = "http://api.openweathermap.org/data/2.5/weather?q=Pune,IN&units=metric&appid=" + apiKey;
 
   http.begin(url);
